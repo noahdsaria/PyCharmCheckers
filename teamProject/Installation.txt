@@ -1,0 +1,12 @@
+Noah Saria
+Minh Nguyen
+Brendan Hon
+Vijay Seetharam
+ENGR 102 Section 507
+
+Group Project - Checkers Installation
+
+1. Extract .zip file to the file of your choosing
+2. Open your IDE and make sure the run path for the program is correct
+3. Make sure to have pygame v2.1.2 installed (see design document)
+
